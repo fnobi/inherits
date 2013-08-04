@@ -1,18 +1,18 @@
-inherit
+inherits
 =======
 
-node.js style inherit(util.inherits) for client side.
+node.js style inherits(util.inherits) for client side.
 
 ## install
 
 ### from bower
 ```
-bower install inherit
+bower install inherits
 ```
 
 ### from github
 ```
-git clone https://github.com/fnobi/inherit.git
+git clone https://github.com/fnobi/inherits.git
 ```
 
 ## API

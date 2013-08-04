@@ -1,7 +1,7 @@
 {
-  "name": "inherit",
+  "name": "inherits",
   "version": "0.0.0",
-  "main": "inherit.js",
+  "main": "inherits.js",
   "ignore": [
     "**/.*",
     "node_modules",
