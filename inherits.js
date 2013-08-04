@@ -1,4 +1,4 @@
-var inherit = function (Child, Parent) {
+var inherits = function (Child, Parent) {
     for (var i in Parent.prototype) {
         if (Child.prototype[i]) {
             continue;
